@@ -1,0 +1,3 @@
+[submodule "PCB-Business-card"]
+	path = PCB-Business-card
+	url = https://github.com/JLCPCB/PCB-Business-card
